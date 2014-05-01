@@ -1,0 +1,93 @@
+#select_faction_panel {
+    width: 1283px;
+    height: 66px;
+}
+
+.dashboard {
+    height: 840px;
+}
+
+#weapons_column {
+    width: 254px;
+}
+
+#weapons_panel {
+    width: 214px; 
+    height: 820px;   
+}
+
+#damage_column {
+    width: 586px;
+}
+
+.damage_column {
+    width: 546px;
+}
+
+#damage_control_options {
+    width: 80px;
+    height: 130px;
+}
+
+#target_readout_panel {
+    height: 500px;
+    margin-bottom: 5px;
+}
+
+#target_display_column {
+    height: 400px;
+    margin-right: 3px;
+    margin-bottom: 2px;
+}
+
+#target_info {
+    margin-top: 3px;
+    margin-right: 3px;
+    width: 400px;
+    height: 95px;
+}
+
+.target_info_first_row {
+    width: 119px;
+}
+
+.target_info_row {
+    width: 385px;
+}
+
+#target_selection_column {
+    margin-left: 2px;
+    width: 138px;
+    height: 495px;
+}
+
+#damage_control_panel {
+    height: 210px;
+}
+
+#targetting_column {
+    width: 243px; 
+}
+
+#targetting_panel {
+    width: 203px;
+    height: 820px;
+}
+
+.targetting_pane {
+    padding-top: 7px;
+}
+
+#utility_column {
+    width: 200px;
+}
+
+#footer {
+    padding: 5px;
+    height: 10px;
+    width: 1243px;
+}
+
+
+
+

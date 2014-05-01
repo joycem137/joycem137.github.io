@@ -1,0 +1,95 @@
+.right {
+    float: right;
+}
+
+.left {
+    float: left;
+}
+
+canvas {
+    cursor:pointer;
+}
+
+button {
+    cursor:pointer;
+    margin: 2px;
+    padding: 2px;
+}
+
+button.tiny {
+    width: 60px;
+    height: 24px;
+}
+
+button.small {
+    width: 110px;
+    height: 24px;
+}
+
+button.medium {
+    width: 130px;
+    height: 29px;
+}
+
+button.large {
+    width: 210px;
+    height: 34px;
+}
+
+button.big {
+    width: 90px;
+    height: 90px;
+}
+
+.label {
+    margin: 2px;
+    padding: 2px;
+}
+
+.bottom_margin {
+    margin-bottom: 5px;
+}
+
+.panel {
+    margin: 10px;
+    padding: 10px;
+}
+
+.panel.utility {
+    width: 200px;
+    height: 120px;
+}
+
+.data_display {
+    margin: 6px;
+    padding: 6px;
+    width: 400px;
+}
+
+button {
+    margin: 2px;
+    padding: 2px;
+}
+
+input {
+    margin: 2px;
+    padding: 2px;
+}
+
+input.in_label {
+    margin: 0px;
+}
+
+input.small {
+    width: 38px;
+    height: 17px;
+}
+
+input.medium {
+    width: 50px;
+    height: 29px;
+}
+
+
+
+
